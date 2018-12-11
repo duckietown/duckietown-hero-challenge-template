@@ -1,0 +1,10 @@
+{
+    "project_name": "Foobar challenge",
+    "project_description": "A short description of the foobar challenge",
+    "project_slug": "foobar_challenge",
+    "repo_name": "duckietown-{{cookiecutter.project_slug}}",
+    "python_package":  "duckietown_{{cookiecutter.project_slug}}",
+    "challenge_slug": "baz",
+    "version": "0.1.0"
+
+}
